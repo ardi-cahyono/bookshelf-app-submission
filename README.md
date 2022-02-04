@@ -32,11 +32,11 @@ Users should be able to:
 
 Dekstop view
 
-![](./screenshoot-dekstop.png)
+![](./screenshot-dekstop.png)
 
 Mobile view
 
-![](./screenshoot-mobile.png)
+![](./screenshot-mobile.png)
 
 
 ### Links
